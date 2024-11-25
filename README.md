@@ -66,7 +66,7 @@ This bot automates the process of extracting comprehensive data from eBay based 
 
 ## Technologies Used
 
-- ![ChromeWebDriver](https://img.shields.io/badge/-ChromeWebDriver-green)
+- ![Undetected Chromedriver](https://img.shields.io/badge/-Undetected_Chromedriver-green)
 - ![Selenium](https://img.shields.io/badge/-Selenium-blue)
 - ![CSV](https://img.shields.io/badge/-CSV-yellow)
 
